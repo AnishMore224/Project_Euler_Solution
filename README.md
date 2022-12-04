@@ -1,1 +1,2 @@
-# Project_Euler_Solution
+# Name-Anish More
+# Telegram username-Anishmore227
