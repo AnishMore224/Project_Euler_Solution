@@ -19,3 +19,6 @@ public class Question_3
 	}
 
 }
+
+//output
+//Largest prime factor:6857
